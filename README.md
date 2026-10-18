@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 Hi, I'm Linda!
 
-<!--
-**lindatai/lindatai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a generalist product designer who thrives in startup environments with a lot of autonomy.
+- I love bringing order to chaos—everything in my life is organized with Excel sheets and databases!
+- Industries I've worked in: healthcare, education, entertainment, hospitality, and fintech.
+- Weirdly obsessed with illustrated reference books, miniature models, stationery, and Spitz dog breeds.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack + Tools
+- Creative Tools: Figma / FigJam, Adobe Suite, Procreate.
+- Languages: HTML / CSS, JavaScript, Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Current Working On
+- Portfolio.
+- 8-bit desktop app.
