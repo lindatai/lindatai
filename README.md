@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Linda!
+### 🖖 Hi, I'm Linda!
 
 - I'm a generalist product designer who thrives in startup environments with a lot of autonomy.
 - I love bringing order to chaos—everything in my life is organized with Excel sheets and databases!
